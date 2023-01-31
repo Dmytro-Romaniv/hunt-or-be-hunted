@@ -1,8 +1,6 @@
 <h1>Zombies vs Villagesr</h1>
 
-<i>The code is horrible but hey I got 100% for it...</i>
-
-**Dmytro Romaniv 140540**
+**The code is horrible but hey I got 100% for it and for my first project in Java it's pretty good**
 
 *Running instructions:*
 
