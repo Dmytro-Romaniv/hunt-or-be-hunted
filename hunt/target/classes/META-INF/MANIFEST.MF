@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: oop.hunt.part2.App
+Class-Path: javafx-controls-19-win.jar javafx-media-15-ea+1.jar javafx-m
+ edia-15-ea+1-win.jar javafx-graphics-15-ea+1.jar javafx-graphics-15-ea+
+ 1-win.jar javafx-base-15-ea+1.jar javafx-fxml-19-win.jar javafx-graphic
+ s-19.jar javafx-base-19-win.jar javafx-graphics-19-win.jar javafx-base-
+ 19.jar javafx-fxml-19.jar javafx-controls-19.jar
+
