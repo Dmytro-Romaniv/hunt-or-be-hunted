@@ -1,4 +1,6 @@
-<h1>Zombies vs Villages (take 23)</h1>
+<h1>Zombies vs Villagesr</h1>
+
+<i>The code is horrible but hey I got 100% for it...</i>
 
 **Dmytro Romaniv 140540**
 
